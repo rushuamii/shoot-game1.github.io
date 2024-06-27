@@ -1,0 +1,10 @@
+#canvas{
+  background-image: url(space4.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+body{
+  margin: 0;
+}
